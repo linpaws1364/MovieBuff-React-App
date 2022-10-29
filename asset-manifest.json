@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MovieBuff-React-App/static/css/main.00e65019.css",
+    "main.js": "/MovieBuff-React-App/static/js/main.87a98b39.js",
+    "static/media/pattern.png": "/MovieBuff-React-App/static/media/pattern.154b156d98c37c57518b.png",
+    "index.html": "/MovieBuff-React-App/index.html",
+    "main.00e65019.css.map": "/MovieBuff-React-App/static/css/main.00e65019.css.map",
+    "main.87a98b39.js.map": "/MovieBuff-React-App/static/js/main.87a98b39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00e65019.css",
+    "static/js/main.87a98b39.js"
+  ]
+}
