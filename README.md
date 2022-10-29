@@ -1,3 +1,12 @@
+# MovieBuff - A React App for searching movies
+Welcome to the Project. Please use the following link to access the project - https://linpaws1364.github.io/MovieBuff-React-App/
+
+# Techstack
+HTML, CSS, JavaScript, ReactJs and API
+
+# Screenshots
+![React App](https://user-images.githubusercontent.com/101203567/198815257-c70b0e6b-2ba7-43d1-8ad2-10316c8bf07a.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
