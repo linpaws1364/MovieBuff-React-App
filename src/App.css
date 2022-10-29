@@ -1,0 +1,43 @@
+html{
+  font-size: 10px;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  background-image: url("pattern.png");
+  background-repeat: repeat;
+  color: #333;
+}
+
+h1{
+  width: 20%;
+  background-color: #333;
+  color: aliceblue;
+  margin: 20px auto;
+  padding: 10px 6px;
+  border-radius: 20px;
+}
+
+p{
+  font-size: 1.6rem;
+}
+
+small{
+  font-size: 1.2rem;
+}
+
+.container{
+  margin: 0 auto;
+  max-width: 1000px;
+  padding: 40px;
+}
+
+.title{
+  text-align: center;
+  font-size: 4.4 rem;
+}
